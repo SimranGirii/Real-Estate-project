@@ -1,0 +1,24 @@
+# Visual theme only - no effect on the ML code.
+[theme]
+base = "light"
+primaryColor = "#0B7A75"
+backgroundColor = "#EEF3F2"
+secondaryBackgroundColor = "#EAF1F0"
+textColor = "#12292C"
+linkColor = "#0B7A75"
+
+font = "Instrument Sans:https://fonts.googleapis.com/css2?family=Instrument+Sans:wght@400;500;600;700&display=swap, sans-serif"
+headingFont = "Bricolage Grotesque:https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght@12..96,500;12..96,700&display=swap, sans-serif"
+
+baseRadius = "0.65rem"
+buttonRadius = "0.65rem"
+borderColor = "#D3DFDC"
+showWidgetBorder = true
+dataframeHeaderBackgroundColor = "#E2EBE9"
+
+[theme.sidebar]
+backgroundColor = "#0E2F33"
+secondaryBackgroundColor = "#173F44"
+textColor = "#E4EFED"
+primaryColor = "#6FD1C6"
+borderColor = "#24474C"
